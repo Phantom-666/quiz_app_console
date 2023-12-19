@@ -1,0 +1,2 @@
+Develop a quiz application with multiple-choice questions on various topics.
+Allow users to choose a category, answer questions, and display their score at the end.
